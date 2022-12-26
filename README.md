@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ysx-20061105
 - 👀 I’m interested in java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning springcloud
+- 💞️ I’m looking to collaborate on 24年秋招找到合适工作
+- 📫 How to reach me ：my email is yao3088964573@163.com
 
 <!---
 ysx-20061105/ysx-20061105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
