@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ysx-20061105
-- 👀 I’m interested in java
+- 👀 I’m interested in java,golang and react
 - 🌱 I’m currently learning springcloud
-- 💞️ I’m looking to collaborate on 25年找到合适的实习工作
-- 🌱 I like the technical direction on java,golang and react
+- 💞️ I’m looking to collaborate on 找到合适的实习工作
 - 📫 How to reach me ：my email is yao3088964573@163.com
 - 📫 github：https://github.com/ahs-0
 
