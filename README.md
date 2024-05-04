@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ysx-20061105
-- 👀 I’m interested in java,golang and react
-- 🌱 I’m currently learning springcloud
-- 💞️ I’m looking to collaborate on 找到合适的实习工作
-- 📫 How to reach me ：my email is yao3088964573@163.com
+- 👀 I’m interested in java and react
+- 🌱 I’m currently learning Dubbo、ruoyi and vue3
 - 📫 github：https://github.com/ahs-0
+- ⛺️ blog: https://www.yuque.com/anethesi/java
 
 <!---
 ysx-20061105/ysx-20061105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
