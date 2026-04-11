@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ysx-20061105
+- 👋 Hi
 - 👀 I’m interested in java and react
 - 🌱 I’m currently learning Spring AI and LangChain
-- 📫 github：https://github.com/ahs-0
 - ⛺️ blog: https://www.yuque.com/anethesi/java
 
 <!---
